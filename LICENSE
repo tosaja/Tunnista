@@ -1,6 +1,20 @@
 MIT License
 
-Copyright (c) 2021 tosaja
+Copyright (c) 2019, 2020, 2021 Tommi Jauhiainen
+Copyright (c) 2021 University of Helsinki
+
+The creation and publication of this software has been partly funded by The Finnish Research Impact Foundation.
+ 
+If you use this software in context of academic publishing, please consider referring to the following publication:
+
+@inproceedings{jauhiainen2019mandarin,
+        title={{Discriminating between Mandarin Chinese and Swiss-German varieties using adaptive language models}},
+        author={Jauhiainen, Tommi and Jauhiainen, Heidi and Lind\'{e}n, Krister},
+        booktitle={Proceedings of the 6th Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2019)},
+        address = {Minneapolis, Minnesota},
+        pages = {178--187},
+        year={2019}
+}
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
